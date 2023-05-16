@@ -43,7 +43,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amdaris.SolidPrinciples.OCP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amdaris.SolidPrinciples.LSP.After", "Amdaris.SolidPrinciples.LSP.After\Amdaris.SolidPrinciples.LSP.After.csproj", "{240CFAA6-201C-4C17-BC36-DC5CE898A301}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amdaris.SolidPrinciples.LCP.Before", "Amdaris.SolidPrinciples.LCP.Before\Amdaris.SolidPrinciples.LCP.Before.csproj", "{19598C4B-3915-4AF4-964C-EE22A2D7F0C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amdaris.SolidPrinciples.LSP.Before", "Amdaris.SolidPrinciples.LCP.Before\Amdaris.SolidPrinciples.LSP.Before.csproj", "{19598C4B-3915-4AF4-964C-EE22A2D7F0C6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amdaris.SolidPrinciples.ISP.After", "Amdaris.SolidPrinciples.ISP.After\Amdaris.SolidPrinciples.ISP.After.csproj", "{53CA8FC5-92BD-49B6-B31A-763BD7858F1B}"
 EndProject
